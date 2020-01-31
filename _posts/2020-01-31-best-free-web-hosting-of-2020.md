@@ -14,9 +14,13 @@ Out of 18 free web hosting providers, Infinityfree is our recommended choice wit
 
 Because you are provided with a free service, the obligations usually attached to a paid subscription no longer exist, and you are usually left to your own devices when things go wrong. None of the free web hosting providers that passed our test could measure up with even the cheapest paid-for service on the market.
 
+![](/assets/img/uploads/da. Honda showroom.png)
+
 But there’s worse news still. We discovered that the websites of some free web hosting providers were not properly secured, which doesn’t generate much faith in their ability to deliver the level of service you’d expect from paid-for providers. Remember the old adage, ‘you get what you pay for’? Well, nowhere else in the tech business is this truer than with web hosting.
 
 In the world of free website hosting, Infinityfree stands out for good reasons. It has a well designed website that makes a positive impression and ticks the right boxes for us. Its homepage gets a C performance grade in our load time test but other than that, it looks pretty solid.
+
+![](/assets/img/uploads/da. Nha may LiOA.png)
 
 It has been in the business for over six years, claims to have 300,000 users and offers unlimited disk space and bandwidth (albeit with a very generous 50,000 daily hits). You can host as many domains as you want but you will only get 10 e-email accounts and one FTP to upload your content.
 
